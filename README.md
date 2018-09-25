@@ -15,7 +15,18 @@ This repository hosts Python modules for performing data ingestion, cleansing an
 ## Deployment
 TBD
 
-## Various Data Source Details:
+######################################################
+#####........Dyson Data Environment (DDE).........####
+######################################################
+
+## Description
+This repository hosts Python modules for performing data ingestion, cleansing and modelling per DDE requirement.
+
+## Motivation
+
+The motivation for doing this project was primarily analyse the customer review/feedback data.
+
+## Source System Overview :
  [Boldchat details](Boldchat_README.md) <br />
  [BazaarVoice details](Bazaarvoice_README.md) <br />
  [SAP-CRM Delta Load details](delta_load_README.md) <br />
