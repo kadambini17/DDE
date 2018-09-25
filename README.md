@@ -16,7 +16,7 @@ This repository hosts Python modules for performing data ingestion, cleansing an
 TBD
 
 
-#####........Dyson Data Environment (DDE).........####
+#####Dyson Data Environment (DDE)####
 
 ## Description
 This repository hosts Python modules for performing data ingestion, cleansing and modelling per DDE requirement.
