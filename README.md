@@ -16,7 +16,7 @@ This repository hosts Python modules for performing data ingestion, cleansing an
 TBD
 
 ## Various Data Source Deatils:
- [Boldchat details](Boldchat_README.md)
+ [Boldchat details](Boldchat_README.md) <br />
  [BazaarVoice details](Bazaarvoice_README.md)
  [SAP-CRM Delta Load details](delta_load_README.md)
  [SAP-CRM Initial Load details](initial_load_README.md)
