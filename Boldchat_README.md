@@ -10,12 +10,10 @@ Below are the request type for which Ingestion is handled: < br />
  5. Departments <br />
 Folder structure in main resposirtory is as follow:<br />
 **made_master/ingestion/boldchat/main** <br />
-Unit test case are developed which cover to test the functionality of each method written in main code. <br />
-Folder structure in main resposirtory is as follow: <br />
-made_master/ingestion/boldchat/tests/unit <br />
-Integration test case are developed which cover to test the connection to AWS S3 bucket and data storage in same.<br />
-Folder structure in main resposirtory is as follow:<br />
-made_master/ingestion/boldchat/tests/integration
+Unit test case are developed which cover to test the functionality of each method written in main code. Folder structure in main resposirtory is as follow:<br />
+**made_master/ingestion/boldchat/tests/unit** <br />
+Integration test case are developed which cover to test the connection to AWS S3 bucket and data storage in same.Folder structure in main resposirtory is as follow:<br />
+**made_master/ingestion/boldchat/tests/integration**
  
 ## Modeling
 
