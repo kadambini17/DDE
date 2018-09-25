@@ -5,13 +5,13 @@ This script ingests data from BoldChat i.e Hit the boldchat API and store the re
 Below are the request type for which Ingestion is handled: < br />
  1. Emails  <br />
  2. Chats  <br />
- 3. Opertors  <br />
+ 3. Operators  <br />
  4. Contacts  <br />
  5. Departments <br />
 Folder structure in main resposirtory is as follow:<br />
-made_master/ingestion/boldchat/main
-Unit test case are developed which cover to test the functionality of each method wriiten in main code.<br />
-Folder structure in main resposirtory is as follow:<br />
+made_master/ingestion/boldchat/main <br />
+Unit test case are developed which cover to test the functionality of each method written in main code. <br />
+Folder structure in main resposirtory is as follow: <br />
 made_master/ingestion/boldchat/tests/unit <br />
 Integration test case are developed which cover to test the connection to AWS S3 bucket and data storage in same.<br />
 Folder structure in main resposirtory is as follow:<br />
