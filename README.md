@@ -16,4 +16,4 @@ This repository hosts Python modules for performing data ingestion, cleansing an
 TBD
 
 ## Boldchat Data Source:
- [create boldchat details](boldchat_README.md)
+ [create boldchat details](Boldchat_README.md)
