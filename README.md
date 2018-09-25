@@ -17,6 +17,6 @@ TBD
 
 ## Various Data Source Deatils:
  [Boldchat details](Boldchat_README.md) <br />
- [BazaarVoice details](Bazaarvoice_README.md)
- [SAP-CRM Delta Load details](delta_load_README.md)
+ [BazaarVoice details](Bazaarvoice_README.md) <br />
+ [SAP-CRM Delta Load details](delta_load_README.md) <br />
  [SAP-CRM Initial Load details](initial_load_README.md)
