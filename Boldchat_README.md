@@ -9,7 +9,7 @@ Below are the request type for which Ingestion is handled: < br />
  4. Contacts  <br />
  5. Departments <br />
 Folder structure in main resposirtory is as follow:<br />
-made_master/ingestion/boldchat/main <br />
+**made_master/ingestion/boldchat/main** <br />
 Unit test case are developed which cover to test the functionality of each method written in main code. <br />
 Folder structure in main resposirtory is as follow: <br />
 made_master/ingestion/boldchat/tests/unit <br />
