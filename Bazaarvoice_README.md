@@ -4,8 +4,8 @@
 
 ## Ingestion
 <li> This script ingests data from Bazaarvoice i.e hit the bazaarvoice API and store the result which is Json file in AWS S3 bucket.</li> <br />
-<li> First script hit product API fom which all the productId are stored temopory and for all productId respective review API is hit and json data return from this review API is store in S3 bucket.</li> <br />
-..*Folder structure in main resposirtory for ingestion is __made_master/ingestion/bazaarvoice/main__ <br />
+ First script hit product API fom which all the productId are stored temopory and for all productId respective review API is hit and json data return from this review API is store in S3 bucket. 
+..* Folder structure in main resposirtory for ingestion is __made_master/ingestion/bazaarvoice/main__ 
 <li> Unit test case are developed which cover to test the functionality of each method written in main code. Folder structure in main resposirtory for unit test case is **made_master/ingestion/bazaarvoice/tests/unit** </li> <br />
 <li> Integration test case are developed which cover to test the connection to AWS S3 bucket and data storage in same.Folder structure in main resposirtory where integration test case are written is **made_master/ingestion/bazaarvoice/tests/integration**</li>
 
