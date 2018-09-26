@@ -13,3 +13,13 @@ Integration test case are developed which cover to test the connection to AWS S3
 **made_master/ingestion/boldchat/tests/integration**
 
 ## Modeling
+The main puprose of modeling to compress the json data for which .parquet file extension is used. 
+pull the Json data from AWS S3 bucket and convert the file into parquet file format and push new parquet file back into AWS s3 bucket.
+Folder structure in main resposirtory for modeling is as follow:<br />
+**made_master/modeling/boldchat/main** <br />
+Unit test case are developed which cover to test the functionality of each method written in main code. Folder structure in main resposirtory is as follow:<br />
+**made_master/modeling/boldchat/tests/unit** <br />
+Integration test case are developed which cover to test the connection to AWS S3 bucket and data storage in same.Folder structure in main resposirtory is as follow:<br />
+**made_master/modeling/boldchat/tests/integration**
+
+
