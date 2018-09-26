@@ -1,5 +1,6 @@
 ## BOLDCHAT DATA SOURCE:
-BoldChat is one of the data source from which data is retrieved from an API in json format based on date and Region as input from user.
+BoldChat is one of the data source through which data is retrieved from an API in json format. User need to input the date for which data need to be retrieved.There are 6 different market/region GB, IE, US, CA, JP and AU.which further classify data reterival. 
+
 ## Ingestion
 This script ingests data from BoldChat i.e Hit the boldchat API and store the result which is Json file in AWS S3 bucket.
 Below are the request type for which Ingestion is handled: < br />
