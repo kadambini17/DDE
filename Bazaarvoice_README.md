@@ -3,7 +3,7 @@ Bazaarvocie is one of the data source through which data is retrieved from an AP
 
 ## Ingestion
 This script ingests data from Bazaarvoice i.e hit the bazaarvoice API and store the result which is Json file in AWS S3 bucket.
-First script hit product API fom which all the productId are stored temopory
+First script hit product API fom which all the productId are stored temopory and for all productId respective review API is hit and json data return from this review API is store in S3 bucket.
 Below are the request type for which Ingestion is handled: 
  <li> Emails </li> <li> Chats </li> <li> Operators </li> <li> Contacts </li> <li> Departments </li>  <br />
 
