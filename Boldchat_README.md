@@ -3,7 +3,7 @@ BoldChat is one of the data source through which data is retrieved from an API i
 
 ## Ingestion
 This script ingests data from BoldChat i.e Hit the boldchat API and store the result which is Json file in AWS S3 bucket.
-Below are the request type for which Ingestion is handled: < br />
+Below are the request type for which Ingestion is handled:
  <ul> <li> Emails </li> <li> Chats </li> <li> Operators </li> <li> Contacts </li> <li> Departments </li> </ul>  
 Folder structure in main resposirtory is as follow:<br />
 **made_master/ingestion/boldchat/main** <br />
