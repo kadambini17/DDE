@@ -1,6 +1,6 @@
 ## BAZAARVOICE DATA SOURCE:
-..* Bazaarvoice is a digital marketing company based in Austin, Texas. It provides software that allows retailers to add customer reviews to their websites.
- ..* Bazaarvocie is one of the data source through which data is retrieved from an API in json format. User need to input the date for which data need to be retrieved.Date can be backdated to reterive hsitorical data.Bazaarvocie API return review shared by customer for various Dyson products.
+* Bazaarvoice is a digital marketing company based in Austin, Texas. It provides software that allows retailers to add customer reviews to their websites.
+*Bazaarvocie is one of the data source through which data is retrieved from an API in json format. User need to input the date for which data need to be retrieved.Date can be backdated to reterive hsitorical data.Bazaarvocie API return review shared by customer for various Dyson products.
 
 ## Ingestion
 <li> This script ingests data from Bazaarvoice i.e hit the bazaarvoice API and store the result which is Json file in AWS S3 bucket.</li> <br />
