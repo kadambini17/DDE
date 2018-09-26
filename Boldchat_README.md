@@ -1,5 +1,5 @@
 ## BOLDCHAT DATA SOURCE:
-* BoldChat offers live communication software including chat, email management, and click to call tools to help businesses control customer interactions and boost website sales.<br />
+<li> BoldChat offers live communication software including chat, email management, and click to call tools to help businesses control customer <b> interactions</b> and boost website sales. </li><br />
 * BoldChat is one of the data source through which data is retrieved from an API in json format. User need to input the date for which data need to be retrieved.There are 6 different market/region GB, IE, US, CA, JP and AU.which further classify data reterival.
 
 ## Ingestion
