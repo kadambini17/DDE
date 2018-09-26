@@ -1,14 +1,14 @@
 ## BOLDCHAT DATA SOURCE:
-<li>BoldChat offers live communication software including chat, email management, and click to call tools to help businesses control customer interactions and boost website sales.</li> <br />
+<li>BoldChat offers live communication software including chat, email management, and click to call tools to help businesses control customer interactions and boost website sales.</li> 
 <li>BoldChat is one of the data source through which data is retrieved from an API in json format. User need to input the date for which data need to be retrieved.There are 6 different market/region GB, IE, US, CA, JP and AU.which further classify data reterival.</li> 
 
 ## Ingestion
 <li>This script ingests data from BoldChat i.e Hit the boldchat API and store the result which is Json file in AWS S3 bucket.
-Below are the request type for which Ingestion is handled:</li> <br />
-  Emails    Chats  Operators Contacts  Departments  <br />
+Below are the request type for which Ingestion is handled:</li>
+  >> Emails <br />   >> Chats <br /> >> Operators<br /> >> Contacts <br />  >> Departments  <br />
 
-<li>Folder structure in main resposirtory for ingestion is **made_master/ingestion/boldchat/main** </li><br />
-<li> Unit test case are developed which cover to test the functionality of each method written in main code. Folder structure in main resposirtory for unit test case is **made_master/ingestion/boldchat/tests/unit** </li> <br />
+<li>Folder structure in main resposirtory for ingestion is **made_master/ingestion/boldchat/main** </li>
+<li> Unit test case are developed which cover to test the functionality of each method written in main code. Folder structure in main resposirtory for unit test case is **made_master/ingestion/boldchat/tests/unit** </li>
 <li> Integration test case are developed which cover to test the connection to AWS S3 bucket and data storage in same.Folder structure in main resposirtory where integration test case are written is **made_master/ingestion/boldchat/tests/integration**</li>
 
 ## Modeling
